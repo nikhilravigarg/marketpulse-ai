@@ -1,0 +1,2 @@
+# docker-compose configuration for MarketPulse
+# Define services for frontend, backend, database, and any other dependencies.
